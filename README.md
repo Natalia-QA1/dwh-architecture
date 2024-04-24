@@ -7,6 +7,6 @@
 - Reconciled layer (standing area)
 - Data warehouse layer which consist of 3NF layer, Dimension layer and Data marts
 
-![Schema](https://github.com/Natalia-QA1/dwh-architecture/tree/fc0c3616627608269a156fc4d8f5acc63db78b51/assets/logical_schema.png)
+![logical_schema](https://github.com/Natalia-QA1/dwh-architecture/tree/fc0c3616627608269a156fc4d8f5acc63db78b51/assets/logical_schema.png)
 
 
