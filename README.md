@@ -10,3 +10,8 @@
 ![logical_schema](https://github.com/Natalia-QA1/dwh-architecture/blob/fc0c3616627608269a156fc4d8f5acc63db78b51/assets/logical_scheme.png)
 
 
+### 3NF schema
+![3 NF](https://github.com/Natalia-QA1/dwh-architecture/blob/11f11aaf2e0f1a484d97e792c8c4974774c89217/assets/3NF.png)
+
+### Dimensional schema
+![3 NF](https://github.com/Natalia-QA1/dwh-architecture/blob/11f11aaf2e0f1a484d97e792c8c4974774c89217/assets/dimensional.png)
